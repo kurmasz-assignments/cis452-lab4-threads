@@ -1,4 +1,4 @@
- CIS 452 Lab 4:  Multi-threaded Programming:  pthreads
+ CIS 452 Lab 8:  Multi-threaded Programming:  pthreads
 ------------------------------------------------------------------------
 
 Lab originally written by Prof. Greg Wolffe.
